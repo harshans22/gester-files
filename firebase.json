@@ -13,6 +13,13 @@
           "source": "/privacypolicy",
           "destination": "/index.html"
         }
+      ],
+      "redirects": [
+        {
+          "source": "/index.html",
+          "destination": "/privacypolicy",
+          "type": 301
+        }
       ]
     }
   ]
